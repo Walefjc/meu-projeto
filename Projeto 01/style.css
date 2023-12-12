@@ -1,0 +1,63 @@
+body {
+  font-family: 'Newsreader', serif;
+
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Newsreader', serif;
+  font-size: 80px;
+
+  margin-bottom: 70px;
+}
+
+
+
+body {
+  font-family: 'Newsreader', serif;
+  font-size: 25px;
+}
+
+span  {
+  color: #FF9900;
+}
+
+a {
+  color: #FF9900
+}
+
+#hero {
+  margin-bottom: 100px;
+}
+
+#footer  a + a {
+    margin-left: 50px;
+    height: 0px;
+
+    border: 7px #641914;
+    
+}
+
+#footer #line {
+  width: 600px;
+  height: 0px;
+
+  margin: 5 auto 5px;
+
+  border: 1px solid #e4951e
+}
+
+#line {
+  width: 600px;
+  height: 0px;
+
+  margin: 0 auto 20px;
+
+  border: 1px solid #e4951e
+}
+
+#prato.jpeg {
+  position: fixed;
+  top: 0px;
+}
+
